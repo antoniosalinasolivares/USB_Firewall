@@ -1,0 +1,9 @@
+Como comentario final, noté que podía, en lugar de usar las reglas udev
+pude crear un script que manteniera un control de diferencias del:
+cat /etc/mtab | grep media
+se iría actualizando y las diferencias serían únicamente los dispositi-
+vos que se conectan y desconectan al notar esa diferencia, podía tomar-
+la igual que en este script para evaluarla en mis whitelist's  y black-
+list's implementar ésto se dejaría para una revisión futura.
+también funcionaría mejor si modificaramos el automontaje de discos que
+tienen muchas distros ya que se vuelve redundante.
