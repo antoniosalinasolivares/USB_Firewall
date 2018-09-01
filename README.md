@@ -3,7 +3,8 @@
 
 	-Antonio Salinas Olivares
 		github.com/antoniosalinasolivares
-	-
+	-Paola Mariana Meneses Rodriguez
+		github.com/pmeneses4
 
 [INSTALACIÓN]
 descomprimir los archivos firewall.sh e install.sh donde
